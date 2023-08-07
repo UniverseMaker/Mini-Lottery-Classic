@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">미니의 추첨기</string>
+    
+    <string name="title_section0">대시보드</string>
+    <string name="title_section1">추첨기록</string>
+    <string name="title_section2">간단 숫자추첨</string>
+    <string name="title_section3">이름추첨</string>
+    <string name="title_section4">도움말</string>
+    <string name="title_section5">정보</string>
+    <string name="title_section6">설정</string>
+
+    <string name="navigation_drawer_open">메뉴 열기</string>
+    <string name="navigation_drawer_close">메뉴 닫기</string>
+    <string name="action_example">도움말</string>
+    <string name="action_settings">설정</string>
+    <string name="action_information">정보</string>
+
+</resources>
